@@ -1,0 +1,8 @@
+# nodeModuleを除外
+node_modules/
+
+# authInfoを除外
+module/jsons/config.json
+
+# logファイルを除外
+/log.csv

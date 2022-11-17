@@ -1,8 +1,12 @@
 # nodeModuleを除外
 node_modules/
 
-# authInfoを除外
-module/jsons/config.json
+# testディレクトリを除外
+test/
 
-# logファイルを除外
-/log.csv
+# jsdocのbuildディレクトリを除外
+docs/dist
+
+#envファイルを除外
+*.env.development
+*.env.production

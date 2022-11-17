@@ -1,8 +1,0 @@
-{
-    "commands": [
-        {
-            "name": "setup",
-            "description": "manage command pannel setup command"
-        }
-    ]
-}
